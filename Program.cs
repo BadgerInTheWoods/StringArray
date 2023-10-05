@@ -45,7 +45,6 @@ string[] ArrayModifier(string[] arr)  // Создает новый массив 
         }
     }
     string[] NewArr = new string[Count];
-
     int k = 0;
     for (int j = 0; j < arr.Length; j++) // заполнение нового массива
     {
