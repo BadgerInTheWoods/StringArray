@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\bin\Debug\net6.0\StringArray.exe
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\bin\Debug\net6.0\StringArray.deps.json
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\bin\Debug\net6.0\StringArray.runtimeconfig.json
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\bin\Debug\net6.0\StringArray.dll
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\bin\Debug\net6.0\StringArray.pdb
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\StringArray.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\StringArray.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\StringArray.AssemblyInfo.cs
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\StringArray.dll
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\refint\StringArray.dll
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\StringArray.pdb
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\StringArray.genruntimeconfig.cache
+C:\Users\Alex\Desktop\GeekBrainsHW\exam\StringArray\obj\Debug\net6.0\ref\StringArray.dll
