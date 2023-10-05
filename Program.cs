@@ -63,5 +63,3 @@ string[] ArrayModifier(string[] arr)  // Создает новый массив 
 string[] array = StringInput();
 Console.WriteLine();
 ArrayModifier(array);
-
-
