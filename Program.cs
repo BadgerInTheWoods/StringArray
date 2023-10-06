@@ -14,10 +14,21 @@ void printarray(string[] arr) // вывод массива в терминал
     Console.Write("]");
 }
 
-string[] StringInput() // ввод массива с клавиатуры
+int CheckInt() // проверка на Int
 {
     Console.WriteLine("введите количество элементов массива");
-    int N = Convert.ToInt32(Console.ReadLine());
+    int V = new int();
+    if (int.TryParse(Console.ReadLine(),out V) == false)
+    {
+        Console.WriteLine("неверно, введите натуральное число");
+        return CheckInt();
+    }
+    return V;
+}
+
+string[] StringInput() // ввод массива с клавиатуры
+{
+    int N = CheckInt();
     string[] arr = new string[N];
     for (int i = 0; i < arr.Length; i++)
     {
